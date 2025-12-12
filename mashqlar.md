@@ -130,7 +130,7 @@
 
 ---
 
-### **Mavzu 5: Kapsulyatsiya (Encapsulation)**
+### **Mavzu 5: Inkapsulyatsiya (Encapsulation)**
 
 1. **Bank hisobi kapsulyatsiyasi**:
    - `BankAccount` klassini yarating: `_balance` (private atribut), `owner` (public atribut)
